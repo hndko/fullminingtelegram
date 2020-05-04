@@ -1,2 +1,2 @@
 # fullmining
- Simple Mining Bot Click Bot [BCH, DOGE, LTC, ZEC, BTC]
+ Doge-LTC-BCH-ZEC-BTC Mining 1 Script
