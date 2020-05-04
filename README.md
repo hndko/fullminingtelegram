@@ -1,6 +1,6 @@
 # Full Mining Telegram
 Script Auto Mining BCH, LTC, DOGE, ZEC, BTC Di Telegram.<br> Script Ini Versi Berbayar Ya Guys, Harga Terjangkau Guys<br>
-Minat Chat Admin : wa.me/6281381675285
+Minat Chat Admin : https://api.whatsapp.com/send?phone=6281381675285&text=Minat%20Scriptnya%20Min
 
 # Cara Install 
 - apt update && apt upgrade<br>
@@ -14,7 +14,7 @@ Minat Chat Admin : wa.me/6281381675285
 # Note :
 - Bisa Menggunakan Nomor Luar
 - Script main.py kosong no source code<br> untuk mendapatkan sourcenya harus bayar
-- Pembelian script main.py melalui : wa.me/6281381675285
+- Pembelian script main.py melalui : https://api.whatsapp.com/send?phone=6281381675285&text=Minat%20Scriptnya%20Min
 
 # Media Sosial :
 - https://linktr.ee/doko1554
