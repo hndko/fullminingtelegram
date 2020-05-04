@@ -10,7 +10,7 @@
 
 # Note :
 - Bisa Menggunakan Nomor Luar
-- Script main.py kosong no source code<br> untuk mendatkan sourcenya harus bayar
+- Script main.py kosong no source code<br> untuk mendapatkan sourcenya harus bayar
 - Pembelian script main.py melalui : wa.me/6281381675285
 
 # Media Sosial :
