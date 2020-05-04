@@ -6,6 +6,7 @@
 - git clone https://github.com/kyo1337/fullminingtelegram<br>
 - cd fullminingtelegram<br>
 - pip3 install -r requirements.txt<br>
+- nano main.py {Paste Souce Coude}
 - python3 main.py phone_number<br>
 
 # Note :
